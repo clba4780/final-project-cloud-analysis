@@ -1,3 +1,9 @@
+# ignore large datasets
+data/*
+*.nc
+*.h5
+*.grib
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
